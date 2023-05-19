@@ -1,0 +1,13 @@
+.employee-grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 10px;
+    
+  }
+  
+  .employee {
+    background-color: #d2d2d2;
+    padding: 10px;
+    
+  }
+  
